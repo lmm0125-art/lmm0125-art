@@ -13,6 +13,7 @@ Mostly CUDA, PyTorch and whatever the coursework needs that week.
 | [drowsy-driving-detection-system](https://github.com/lmm0125-art/drowsy-driving-detection-system) | 졸업운전감지시스템 — eye and mouth state detection with a sliding-window fatigue rule and a desktop monitor; mAP@0.5 0.993 | Python · Tkinter |
 | [machine-learning](https://github.com/lmm0125-art/machine-learning) | explainable LSTM + attention classifier for rehabilitation motions; 0.931 per-recording accuracy under group cross-validation | Python · PyTorch |
 | [yolo-road-object-detection](https://github.com/lmm0125-art/yolo-road-object-detection) | YOLO11s trained on a merged DAWN + teammate dataset for road object detection; mAP@0.5 0.373 | Python · Jupyter |
+| [computer-vision](https://github.com/lmm0125-art/computer-vision) | ITE4052 coursework — kNN, linear classifiers, convolutional networks, and Thermal Anomaly Hunter: YOLO detectors on thermal imagery, mAP@0.5:0.95 0.9786 | Python · Jupyter |
 | [roomi](https://github.com/lmm0125-art/roomi) | 루미 (RooMi) — a coloured-in robot that lives in a 3D room and gives a child a reason to come back tomorrow | Node · Babylon.js |
 | [bubble-tea-kiosk](https://github.com/ninemorning/bubble-tea-kiosk) | 버블티 키오스크 — self-service ordering with membership, drink customisation, cart and points (team project) | Python · Tkinter |
 | [bubble](https://github.com/lmm0125-art/bubble) | the written report and mentoring documents behind the machine-learning project | Markdown |
