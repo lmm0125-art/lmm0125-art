@@ -1,6 +1,6 @@
 # 이멍멍 · Limengmeng
 
-Hanyang University ERICA — Artificial Intelligence.
+Hanyang University — Artificial Intelligence.
 Mostly CUDA, PyTorch and whatever the coursework needs that week.
 
 ---
