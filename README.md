@@ -10,7 +10,7 @@ Mostly CUDA, PyTorch and whatever the project needs that week.
 | repository | what it is | stack |
 |---|---|---|
 | [gpt2-matmul-optimization](https://github.com/lmm0125-art/gpt2-matmul-optimization) | GPT-2 self-attention matmul in CUDA — shared-memory tiling, block-size tuning, loop unrolling; 71× over the naive baseline | CUDA · C++ |
-| [drowsy-driving-detection-system](https://github.com/lmm0125-art/drowsy-driving-detection-system) | 졸업운전감지시스템 — eye and mouth state detection with a sliding-window fatigue rule and a desktop monitor; mAP@0.5 0.993 | Python · Tkinter |
+| [drowsy-driving-detection-system](https://github.com/lmm0125-art/drowsy-driving-detection-system) | 졸업운전감지시스템 — eye and mouth state detection with a sliding-window fatigue rule and a desktop monitor; mAP@0.5 0.993 | Python · YOLO · Tkinter |
 | [machine-learning](https://github.com/lmm0125-art/machine-learning) | explainable LSTM + attention classifier for rehabilitation motions; 0.931 per-recording accuracy under group cross-validation | Python · PyTorch |
 | [yolo-road-object-detection](https://github.com/lmm0125-art/yolo-road-object-detection) | YOLO11s trained on a merged DAWN + teammate dataset for road object detection; mAP@0.5 0.373 | Python · Jupyter |
 | [computer-vision](https://github.com/lmm0125-art/computer-vision) | ITE4052 project — kNN, linear classifiers, convolutional networks, and Thermal Anomaly Hunter: YOLO detectors on thermal imagery, mAP@0.5:0.95 0.9786 | Python · Jupyter |
