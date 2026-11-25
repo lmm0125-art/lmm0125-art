@@ -1,7 +1,7 @@
 # 이멍멍 · Limengmeng
 
 Hanyang University — Artificial Intelligence.
-Mostly CUDA, PyTorch and whatever the project needs that week.
+Mostly CUDA, PyTorch and whatever the project needs.
 
 ---
 
